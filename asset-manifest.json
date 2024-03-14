@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/BranchJourneys/static/css/main.f90d1917.css",
-    "main.js": "/BranchJourneys/static/js/main.a4ef9522.js",
+    "main.js": "/BranchJourneys/static/js/main.63e47770.js",
     "static/js/453.ae1e6336.chunk.js": "/BranchJourneys/static/js/453.ae1e6336.chunk.js",
     "index.html": "/BranchJourneys/index.html",
     "main.f90d1917.css.map": "/BranchJourneys/static/css/main.f90d1917.css.map",
-    "main.a4ef9522.js.map": "/BranchJourneys/static/js/main.a4ef9522.js.map",
+    "main.63e47770.js.map": "/BranchJourneys/static/js/main.63e47770.js.map",
     "453.ae1e6336.chunk.js.map": "/BranchJourneys/static/js/453.ae1e6336.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f90d1917.css",
-    "static/js/main.a4ef9522.js"
+    "static/js/main.63e47770.js"
   ]
 }
