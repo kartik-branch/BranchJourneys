@@ -58824,7 +58824,7 @@ return!1},
 $S:28}
 A.xt.prototype={
 J(a){var s=null,r=t.N
-return A.a9f(A.a73(s,A.i6("My Bank",s)),new A.e5(B.jk,new A.CM(A.a4a(A.a([new A.np("Account Details",s),new A.x9(s),A.a7A(20),new A.np("Transaction History",s),new A.Dy(A.a([A.aF(["date","2024-09-01","description","Grocery Store","amount","-$45.23"],r,r),A.aF(["date","2024-08-25","description","Salary","amount","+$5,000.00"],r,r),A.aF(["date","2024-08-20","description","Electricity Bill","amount","-$120.00"],r,r)],t.A7),s),A.a7A(20),new A.np("Make a Payment",s),new A.Ah(s)],t.nA),B.di,B.dQ),s),s))}}
+return A.a9f(A.a73(s,A.i6("Demo Bank",s)),new A.e5(B.jk,new A.CM(A.a4a(A.a([new A.np("Account Details",s),new A.x9(s),A.a7A(20),new A.np("Transaction History",s),new A.Dy(A.a([A.aF(["date","2024-09-01","description","Grocery Store","amount","-$45.23"],r,r),A.aF(["date","2024-08-25","description","Salary","amount","+$5,000.00"],r,r),A.aF(["date","2024-08-20","description","Electricity Bill","amount","-$120.00"],r,r)],t.A7),s),A.a7A(20),new A.np("Make a Payment",s),new A.Ah(s)],t.nA),B.di,B.dQ),s),s))}}
 A.np.prototype={
 J(a){var s=null
 return new A.e5(B.yW,A.i6(this.c,A.hc(s,s,s,s,s,s,s,s,s,s,s,20,s,s,B.bH,s,s,!0,s,s,s,s,s,s,s,s)),s)}}
